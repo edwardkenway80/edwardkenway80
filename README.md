@@ -2,81 +2,51 @@
 
 ### Geospatial & WebGIS Engineer
 
-I build production-oriented geospatial systems, interactive WebGIS applications,
-spatial data infrastructures, GIS automation pipelines and AI-assisted geospatial workflows.
+I design and build production-oriented geospatial systems, WebGIS applications,
+spatial data infrastructures, and AI-assisted geospatial workflows.
+
+My focus is on turning complex spatial data into reliable, interactive and
+operational software.
 
 ---
 
-## About Me
+## What I Build
 
-Geospatial and software engineer focused on building open-source,
-production-oriented geospatial systems.
-
-My work combines GIS, spatial databases, web mapping, backend development,
-automation and artificial intelligence.
-
-I am particularly interested in infrastructure networks, environmental systems,
-field GIS, offline-first mapping and large-scale spatial data.
+- WebGIS applications
+- Spatial databases and APIs
+- Infrastructure & network GIS
+- GIS data pipelines and automation
+- Offline-first field mapping systems
+- Geospatial AI and remote-sensing workflows
+- Open-source geospatial solutions
 
 ---
 
-## Core Expertise
+## Core Technology
 
 ### Geospatial
 
-- QGIS
-- PostGIS
-- GeoServer
-- GDAL / OGR
-- GeoPandas
-- GeoJSON
-- Spatial SQL
-- Coordinate Reference Systems
+`QGIS` `PostGIS` `GeoServer` `GDAL/OGR` `GeoPandas` `GeoJSON` `Spatial SQL`
 
 ### Web Mapping
 
-- MapLibre GL JS
-- OpenLayers
-- Leaflet
-- Vector Tiles
-- PMTiles
-- WebGIS
-- Interactive Cartography
+`MapLibre GL JS` `OpenLayers` `Leaflet` `PMTiles` `Vector Tiles`
 
 ### Backend
 
-- Python
-- Django
-- GeoDjango
-- FastAPI
-- PostgreSQL
-- REST APIs
+`Python` `Django` `GeoDjango` `FastAPI` `PostgreSQL` `REST APIs`
 
 ### Frontend
 
-- JavaScript
-- TypeScript
-- React
-- HTML
-- CSS
+`React` `TypeScript` `JavaScript` `HTML` `CSS`
 
 ### Infrastructure
 
-- Docker
-- Redis
-- Nginx
-- Linux
-- Git
-- GitHub Actions
+`Docker` `Redis` `Nginx` `Linux` `GitHub Actions`
 
 ### GeoAI & Remote Sensing
 
-- Python
-- Machine Learning
-- Remote Sensing
-- Sentinel-2
-- Spatial Analysis
-- GeoAI
+`Python` `Machine Learning` `Remote Sensing` `Sentinel-2` `GeoAI`
 
 ---
 
@@ -84,40 +54,51 @@ field GIS, offline-first mapping and large-scale spatial data.
 
 ### Infrastructure WebGIS
 
-Enterprise-oriented WebGIS architecture for infrastructure and network management.
+A production-oriented WebGIS architecture for infrastructure and network
+management.
 
 **PostGIS · GeoServer · Django · MapLibre · Docker**
+
+> Coming soon
 
 ---
 
 ### Geospatial Data Pipeline
 
-Automated geospatial ETL and data processing pipeline for transforming,
-validating, cleaning and publishing spatial datasets.
+Automated geospatial ETL pipeline for validating, transforming, cleaning
+and publishing spatial datasets.
 
 **Python · GDAL · GeoPandas · PostGIS**
+
+> Coming soon
 
 ---
 
 ### Sahara Offline GIS
 
-Offline-first geospatial platform for field navigation and desert operations.
+An offline-first geospatial platform designed for field navigation,
+desert operations and mobile GIS workflows.
 
 **MapLibre · PMTiles · SQLite/SpatiaLite · PWA**
+
+> Coming soon
 
 ---
 
 ### Geospatial AI
 
-AI-assisted spatial analysis and remote-sensing workflows.
+Geospatial analysis and remote-sensing workflows combining spatial data,
+machine learning and satellite imagery.
 
 **Python · GeoPandas · Raster Processing · Machine Learning**
 
+> Coming soon
+
 ---
 
-## Open Source Interests
+## Open Source
 
-I am interested in contributing to and building with:
+Interested in contributing to and building with:
 
 - QGIS
 - GDAL
@@ -129,45 +110,33 @@ I am interested in contributing to and building with:
 
 ---
 
-## What I Am Open To
+## Professional Interests
 
-- Remote WebGIS projects
+Open to international remote collaboration in:
+
+- WebGIS development
 - GIS consulting
-- Geospatial software development
+- Geospatial software engineering
 - GIS automation
-- Infrastructure and network GIS
+- Infrastructure & network GIS
 - Spatial data engineering
-- GeoAI projects
-- Open-source collaboration
+- GeoAI
+- Remote sensing
+- Open-source geospatial projects
 
 ---
 
-## Technology Stack
+## Current Focus
 
-```text
-GIS
-QGIS · PostGIS · GeoServer · GDAL · GeoPandas
+Building practical open-source geospatial systems that combine:
 
-Web Mapping
-MapLibre · OpenLayers · Leaflet · PMTiles · Vector Tiles
-
-Backend
-Python · Django · GeoDjango · FastAPI · PostgreSQL
-
-Frontend
-React · TypeScript · JavaScript
-
-Infrastructure
-Docker · Redis · Nginx · Linux · GitHub Actions
-
-GeoAI
-Python · Machine Learning · Remote Sensing · Sentinel-2
+**GIS + Software Engineering + Spatial Databases + Web Mapping + AI**
 
 ---
 
 ## Contact
 
-Adel Hazreche
+**Adel Hazreche**
 
 Algeria · Remote
 
