@@ -59,7 +59,7 @@ management.
 
 **PostGIS · GeoServer · Django · MapLibre · Docker**
 
-> Coming soon
+> [View project →](https://github.com/edwardkenway80/infrastructure-webgis)
 
 ---
 
