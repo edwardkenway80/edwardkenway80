@@ -141,3 +141,7 @@ Building practical open-source geospatial systems that combine:
 Algeria · Remote
 
 Open to international GIS, WebGIS and geospatial software projects.
+
+https://drive.google.com/file/d/1K6QIdfwiSDFcGdLTjpKklyivT8wLfA9C/view?usp=drivesdk
+
+https://drive.google.com/file/d/1xwfoxFA5TK3OgVvqXh2TafJ9z9n52Luy/view?usp=drivesdk
